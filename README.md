@@ -3,11 +3,9 @@ BIGTREE_IOT_Dashboard
 - Create by Junyi 
 - A IOT Dashboard Management System
 
-Description
-----------------------------
-Basicly,we need to complete the following pages:
-#git使用规范
 
+git使用规范
+----------------------------
 > 分支：
 >
 >------master 主分支
@@ -20,6 +18,11 @@ Basicly,we need to complete the following pages:
 >
 >------------|- for team member 
 
+Creating a new branch is quick
+
+Description
+----------------------------
+Basicly,we need to complete the following pages:
 
 Right side bar
 -------------------------------
