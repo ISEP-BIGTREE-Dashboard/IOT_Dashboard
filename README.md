@@ -4,7 +4,7 @@ BIGTREE_IOT_Dashboard
 - A IOT Dashboard Management System
 
 
-git使用规范
+Git Usage
 ----------------------------
 > 分支：
 >
